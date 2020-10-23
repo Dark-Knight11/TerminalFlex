@@ -11,6 +11,6 @@ sudo git clone https://github.com/Dark-Knight11/TerminalFlex.git
 # Usage 
 Run the `TerminalFlex.sh` file. 
 
-It will ask for the text for banner enter that and done. 
+It will ask for the text for banner, enter that and you're done. 
 
 `./TerminalFlex.sh`
