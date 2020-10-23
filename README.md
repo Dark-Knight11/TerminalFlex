@@ -5,7 +5,8 @@ A cool banner forming tool
 
 ```
 cd /opt
-sudo git clone https://github.com/Dark-Knight11/TerminalFlex.git  
+sudo git clone https://github.com/Dark-Knight11/TerminalFlex.git 
+cd TerminalFlex
 ./setup.sh
 ```
 # Usage 
