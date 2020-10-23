@@ -7,7 +7,7 @@ A cool banner forming tool
 cd /opt
 sudo git clone https://github.com/Dark-Knight11/TerminalFlex.git 
 cd TerminalFlex
-./setup.sh
+sudo ./setup.sh
 ```
 # Usage 
 Run the `TerminalFlex.sh` file. 
