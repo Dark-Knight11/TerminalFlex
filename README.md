@@ -1,7 +1,7 @@
 # TerminalFlex
 A cool banner forming tool
 # Installing 
-Make sure to clone this repo in `/opt` directory 
+### Make sure to clone this repo in `/opt` directory 
 
 ```
 cd /opt
