@@ -14,4 +14,4 @@ Run the `TerminalFlex.sh` file.
 
 It will ask for the text for banner, enter that and you're done. 
 
-`./TerminalFlex.sh`
+`sudo ./TerminalFlex.sh`
