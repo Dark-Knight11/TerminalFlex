@@ -2,9 +2,7 @@
 sudo apt update
 sudo apt install figlet
 sudo apt install lolcat
-echo
-echo -n "Enter your system username: " 
-read username
-echo $username > test.txt
-cat test.txt | figlet > banner.txt
+username=$(whoami)
+sudo echo $username > text.txt
+sudo cat text.txt | figlet > banner.txt
 echo -e "\ncat /opt/TerminalFlex/banner.txt | lolcat" >> /home/$username/.bashrc
