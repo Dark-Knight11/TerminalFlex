@@ -2,7 +2,10 @@
 A cool banner forming tool
 # Description
 Make your Terminal greet you with banners 
-<img src="images/LikeThis.png" height=100px width=100px
+<p> <img src="images/LikeThis.png" height=120px width=400px> </p>
+<p> <img src="images/Terminal.png" height=120px width=500px> </p>
+<p> <img src="images/CoolTerminal.png" height=120px width=550px> </p>
+
 # Installing 
 ### Make sure to clone this repo in `/opt` directory 
 
